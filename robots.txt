@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://medusaAR.netlify.app/sitemap.xml
